@@ -22,4 +22,10 @@ The data available in the Titanic dataset and its characteristics are given belo
 •	Cabin – The cabin category of the passenger
 •	Embarked – The port of entry (Cherbourg – C, Q – Queenstown, S- Southampton)
 
+Machine Learning models
 
+The goal of the project was to predict which passengers survived in the Titanic disaster. Since the survivability was given in the dataset as survived-1 and not-survived - 0, 3 supervised machine learning models were trained.
+
+•	Random Forest Classifier
+•	Support Vector Machine 
+•	Logistic Regression Model
